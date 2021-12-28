@@ -16,4 +16,3 @@ else if(randomNumber2 > randomNumber1) {
 else {
     document.querySelector("#title").innerText = 'Draw Game...';
 }
-
