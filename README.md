@@ -3,3 +3,5 @@
 ## All you have to do is refresh the page
 
 ![Index Page](images/1.png)
+![Index Page](images/2.png)
+![Index Page](images/3.png)
